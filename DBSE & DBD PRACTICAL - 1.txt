@@ -1,4 +1,4 @@
-C:\Users\SAI HIMA SEKHAR>cd\
+C:\Users\SHANKAR>cd\
 
 C:\>cd /d "C:\Program Files\MySQL\MySQL Server 8.0\bin"
 
